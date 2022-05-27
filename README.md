@@ -8,3 +8,8 @@ Bu projede https://github.com/AlexeyAB/darknet linketi darknet paketini kullanı
 
 Yolov4 algoritmasını kullanıyoruz.
 Var olan algoritmayı kendi projemize uyarlayarak kullanıyoruz.
+
+Veri setimizi labelImg kullanarak  oluşturduk.
+Veri setinde bulunan fotoğrafları google görseller üzerinden elde ettik. 
+93 adet fotoğraf üzerinde eğitim yaptık.
+Ortalama hata oranımız 1.4 olarak sonuclandı.
